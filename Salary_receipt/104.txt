@@ -1,0 +1,19 @@
+	Company Name ,XYZ
+	Address:Xyz,floor4
+------------------------------------------------
+ Employee ID		: 104 
+ salary of 		:  Jan-2020 
+ Generated On		:  24-11-2023
+------------------------------------------------
+ Total Days		:  20
+ Total Present		:  15
+ Total Absent		: 5
+ Convence		:  Rs.240
+ Medical		:  Rs.2500
+ PF		:  Rs.1500
+ Gross Payment		:  Rs.70000
+ Net Salary		:  Rs.48740.0
+--------------------------------------------
+This is computer generated slip, not 
+requrired any signature
+
